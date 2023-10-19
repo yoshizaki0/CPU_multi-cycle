@@ -1,0 +1,176 @@
+-- Copyright (C) 2020  Intel Corporation. All rights reserved.
+-- Your use of Intel Corporation's design tools, logic functions 
+-- and other software and tools, and any partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Intel Program License 
+-- Subscription Agreement, the Intel Quartus Prime License Agreement,
+-- the Intel FPGA IP License Agreement, or other applicable license
+-- agreement, including, without limitation, that your use is for
+-- the sole purpose of programming logic devices manufactured by
+-- Intel and sold by Intel or its authorized distributors.  Please
+-- refer to the applicable agreement for further details, at
+-- https://fpgasoftware.intel.com/eula.
+
+-- Quartus Prime generated Memory Initialization File (.mif)
+
+WIDTH=8;
+DEPTH=1024;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+000  :  D0;
+001  :  FF;
+002  :  D1;
+003  :  FF;
+004  :  E0;
+005  :  D0;
+006  :  80;
+007  :  D1;
+008  :  01;
+009  :  F0;
+00a  :  D0;
+00b  :  80;
+00c  :  D1;
+00d  :  04;
+00e  :  F0;
+00f  :  D0;
+010  :  FF;
+011  :  D1;
+012  :  FE;
+013  :  E0;
+014  :  D9;
+015  :  01;
+016  :  91;
+017  :  50;
+018  :  00;
+019  :  1d;
+01a  :  60;
+01b  :  00;
+01c  :  00;
+01d  :  D0;
+01e  :  FF;
+01f  :  D1;
+020  :  FF;
+021  :  E0;
+022  :  D0;
+023  :  80;
+024  :  D1;
+025  :  02;
+026  :  F0;
+027  :  D0;
+028  :  80;
+029  :  D1;
+02a  :  05;
+02b  :  F0;
+02c  :  D0;
+02d  :  FF;
+02e  :  D1;
+02f  :  FE;
+030  :  E0;
+031  :  D9;
+032  :  02;
+033  :  91;
+034  :  50;
+035  :  00;
+036  :  3a;
+037  :  60;
+038  :  00;
+039  :  1d;
+03a  :  D1;
+03b  :  01;
+03c  :  E0;
+03d  :  D1;
+03e  :  02;
+03f  :  E1;
+040  :  81;
+041  :  D9;
+042  :  80;
+043  :  82;
+044  :  50;
+045  :  00;
+046  :  51;
+047  :  D1;
+048  :  01;
+049  :  E0;
+04a  :  D1;
+04b  :  02;
+04c  :  E1;
+04d  :  F0;
+04e  :  D1;
+04f  :  01;
+050  :  F4;
+051  :  D1;
+052  :  01;
+053  :  E0;
+054  :  D1;
+055  :  02;
+056  :  E1;
+057  :  81;
+058  :  D1;
+059  :  01;
+05a  :  F0;
+05b  :  D9;
+05c  :  80;
+05d  :  92;
+05e  :  50;
+05f  :  00;
+060  :  51;
+061  :  60;
+062  :  00;
+063  :  64;
+064  :  D1;
+065  :  02;
+066  :  E1;
+067  :  80;
+068  :  F0;
+069  :  D1;
+06a  :  01;
+06b  :  F4;
+06c  :  D8;
+06d  :  00;
+06e  :  A1;
+06f  :  50;
+070  :  00;
+071  :  75;
+072  :  60;
+073  :  00;
+074  :  51;
+075  :  00;
+076  :  D1;
+077  :  03;
+078  :  D8;
+079  :  00;
+07a  :  F0;
+07b  :  D1;
+07c  :  04;
+07d  :  E0;
+07e  :  D1;
+07f  :  01;
+080  :  E1;
+081  :  D1;
+082  :  03;
+083  :  E1;
+084  :  99;
+085  :  F4;
+086  :  D1;
+087  :  01;
+088  :  E1;
+089  :  81;
+08a  :  50;
+08b  :  00;
+08c  :  81;
+08d  :  D1;
+08e  :  03;
+08f  :  E0;
+090  :  D1;
+091  :  05;
+092  :  E1;
+093  :  76;
+094  :  D1;
+095  :  06;
+096  :  F0;
+END;
